@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Angel Kristie\\source\\repos\\MvcCoreTutorial\\MvcCoreTutorial\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.MvcCoreTutorial.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.MvcCoreTutorial.props",
+      "PackagePath": "build\\MvcCoreTutorial.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.MvcCoreTutorial.props",
+      "PackagePath": "buildMultiTargeting\\MvcCoreTutorial.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.MvcCoreTutorial.props",
+      "PackagePath": "buildTransitive\\MvcCoreTutorial.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

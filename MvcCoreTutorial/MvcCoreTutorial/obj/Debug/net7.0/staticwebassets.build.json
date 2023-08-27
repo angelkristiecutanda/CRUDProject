@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "g6Lan+AdCbBL2c4H7wPkAE7JWFmnR1EAHAtEPoAFGp0=",
+  "Source": "MvcCoreTutorial",
+  "BasePath": "_content/MvcCoreTutorial",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MvcCoreTutorial\\wwwroot",
+      "Source": "MvcCoreTutorial",
+      "ContentRoot": "C:\\Users\\Angel Kristie\\source\\repos\\MvcCoreTutorial\\MvcCoreTutorial\\wwwroot\\",
+      "BasePath": "_content/MvcCoreTutorial",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Angel Kristie\\source\\repos\\MvcCoreTutorial\\MvcCoreTutorial\\wwwroot\\favicon.ico",
+      "SourceId": "MvcCoreTutorial",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Angel Kristie\\source\\repos\\MvcCoreTutorial\\MvcCoreTutorial\\wwwroot\\",
+      "BasePath": "_content/MvcCoreTutorial",
+      "RelativePath": "favicon.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\favicon.ico"
+    }
+  ]
+}
